@@ -30,6 +30,6 @@ Este é um projeto simples de CRUD (Create, Read, Update, Delete) desenvolvido e
 - `IClienteDAO.java`: Interface para operações de CRUD em clientes.
 
 ## Observações:
-
+- Projeto desenvolvido como parte do curso na EBAC.
 - Projeto destinado a fins educacionais e de aprendizado em Java Swing.
 - Contribuições e sugestões de melhoria são bem-vindas.
